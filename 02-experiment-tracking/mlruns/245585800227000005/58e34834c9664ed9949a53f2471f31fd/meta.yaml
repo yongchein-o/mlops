@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/02-experiment-tracking/mlruns/245585800227000005/58e34834c9664ed9949a53f2471f31fd/artifacts
+end_time: 1719147223892
+entry_point_name: ''
+experiment_id: '245585800227000005'
+lifecycle_stage: active
+run_id: 58e34834c9664ed9949a53f2471f31fd
+run_name: hilarious-moth-577
+run_uuid: 58e34834c9664ed9949a53f2471f31fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719147109257
+status: 3
+tags: []
+user_id: codespace

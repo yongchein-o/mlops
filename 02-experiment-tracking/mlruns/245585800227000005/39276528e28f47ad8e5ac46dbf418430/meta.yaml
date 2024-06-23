@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/02-experiment-tracking/mlruns/245585800227000005/39276528e28f47ad8e5ac46dbf418430/artifacts
+end_time: 1719144785932
+entry_point_name: ''
+experiment_id: '245585800227000005'
+lifecycle_stage: active
+run_id: 39276528e28f47ad8e5ac46dbf418430
+run_name: lyrical-seal-415
+run_uuid: 39276528e28f47ad8e5ac46dbf418430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719144782980
+status: 3
+tags: []
+user_id: codespace

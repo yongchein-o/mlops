@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/02-experiment-tracking/mlruns/245585800227000005/4aabf504c78d45a6baacdf18705f7949/artifacts
+end_time: 1719146864860
+entry_point_name: ''
+experiment_id: '245585800227000005'
+lifecycle_stage: active
+run_id: 4aabf504c78d45a6baacdf18705f7949
+run_name: likeable-doe-496
+run_uuid: 4aabf504c78d45a6baacdf18705f7949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719146632410
+status: 4
+tags: []
+user_id: codespace

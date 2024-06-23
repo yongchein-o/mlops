@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/02-experiment-tracking/mlruns/245585800227000005/d92ff575b5d64474b9cd1e8afde2e1d4/artifacts
+end_time: 1719144551378
+entry_point_name: ''
+experiment_id: '245585800227000005'
+lifecycle_stage: active
+run_id: d92ff575b5d64474b9cd1e8afde2e1d4
+run_name: kindly-robin-830
+run_uuid: d92ff575b5d64474b9cd1e8afde2e1d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719144545647
+status: 3
+tags: []
+user_id: codespace

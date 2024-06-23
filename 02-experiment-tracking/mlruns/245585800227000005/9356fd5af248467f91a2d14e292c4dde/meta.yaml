@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/02-experiment-tracking/mlruns/245585800227000005/9356fd5af248467f91a2d14e292c4dde/artifacts
+end_time: 1719149908332
+entry_point_name: ''
+experiment_id: '245585800227000005'
+lifecycle_stage: active
+run_id: 9356fd5af248467f91a2d14e292c4dde
+run_name: abrasive-elk-499
+run_uuid: 9356fd5af248467f91a2d14e292c4dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719149886627
+status: 3
+tags: []
+user_id: codespace

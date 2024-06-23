@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1719153206971
+current_stage: None
+description: ''
+last_updated_timestamp: 1719153206971
+name: nyc-taxi-regressor-prod
+run_id: 4a08ad8f9f964696a802152f14fbe121
+run_link: ''
+source: models:/nyc-taxi-regressor/2
+status: READY
+status_message: null
+storage_location: file:///workspaces/mlops/02-experiment-tracking/mlruns/245585800227000005/4a08ad8f9f964696a802152f14fbe121/artifacts/models_mlflow
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/02-experiment-tracking/mlruns/245585800227000005/e969464dd58d47a0ac2eb36ee50623fa/artifacts
+end_time: 1719149067875
+entry_point_name: ''
+experiment_id: '245585800227000005'
+lifecycle_stage: active
+run_id: e969464dd58d47a0ac2eb36ee50623fa
+run_name: magnificent-trout-41
+run_uuid: e969464dd58d47a0ac2eb36ee50623fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719149064957
+status: 4
+tags: []
+user_id: codespace

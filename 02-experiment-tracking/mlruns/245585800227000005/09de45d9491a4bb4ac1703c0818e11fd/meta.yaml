@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/02-experiment-tracking/mlruns/245585800227000005/09de45d9491a4bb4ac1703c0818e11fd/artifacts
+end_time: 1719146301883
+entry_point_name: ''
+experiment_id: '245585800227000005'
+lifecycle_stage: active
+run_id: 09de45d9491a4bb4ac1703c0818e11fd
+run_name: inquisitive-koi-466
+run_uuid: 09de45d9491a4bb4ac1703c0818e11fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719146198068
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,7 @@
+artifact_location: file:///workspaces/mlops/02-experiment-tracking/mlruns/244342788363882211
+creation_time: 1719152093240
+experiment_id: '244342788363882211'
+last_update_time: 1719152112796
+lifecycle_stage: deleted
+name: my-cool-experiment
+tags: {}

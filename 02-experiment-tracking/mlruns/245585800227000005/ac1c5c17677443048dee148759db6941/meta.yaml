@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/02-experiment-tracking/mlruns/245585800227000005/ac1c5c17677443048dee148759db6941/artifacts
+end_time: 1719145963322
+entry_point_name: ''
+experiment_id: '245585800227000005'
+lifecycle_stage: active
+run_id: ac1c5c17677443048dee148759db6941
+run_name: merciful-swan-374
+run_uuid: ac1c5c17677443048dee148759db6941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719145914162
+status: 3
+tags: []
+user_id: codespace

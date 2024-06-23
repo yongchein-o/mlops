@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/02-experiment-tracking/mlruns/245585800227000005/f6dba4b5631e498ea1463417f55241ab/artifacts
+end_time: 1719144768170
+entry_point_name: ''
+experiment_id: '245585800227000005'
+lifecycle_stage: active
+run_id: f6dba4b5631e498ea1463417f55241ab
+run_name: smiling-horse-669
+run_uuid: f6dba4b5631e498ea1463417f55241ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719144762438
+status: 3
+tags: []
+user_id: codespace

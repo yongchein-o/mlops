@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/02-experiment-tracking/mlruns/245585800227000005/5583bac4a8be48a2a72b17eeb164ed9c/artifacts
+end_time: 1719146154639
+entry_point_name: ''
+experiment_id: '245585800227000005'
+lifecycle_stage: active
+run_id: 5583bac4a8be48a2a72b17eeb164ed9c
+run_name: gaudy-foal-163
+run_uuid: 5583bac4a8be48a2a72b17eeb164ed9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719146032075
+status: 3
+tags: []
+user_id: codespace

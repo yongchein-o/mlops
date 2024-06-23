@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlops/02-experiment-tracking/mlruns/245585800227000005
+creation_time: 1719142135182
+experiment_id: '245585800227000005'
+last_update_time: 1719142135182
+lifecycle_stage: active
+name: nyc-taxi-experiment

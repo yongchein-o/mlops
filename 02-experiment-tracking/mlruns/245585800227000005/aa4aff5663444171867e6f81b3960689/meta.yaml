@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/02-experiment-tracking/mlruns/245585800227000005/aa4aff5663444171867e6f81b3960689/artifacts
+end_time: 1719147717762
+entry_point_name: ''
+experiment_id: '245585800227000005'
+lifecycle_stage: active
+run_id: aa4aff5663444171867e6f81b3960689
+run_name: lyrical-bee-178
+run_uuid: aa4aff5663444171867e6f81b3960689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719147603452
+status: 3
+tags: []
+user_id: codespace
